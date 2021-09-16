@@ -12,8 +12,7 @@
 
 1. lovelace-card-tools (https://github.com/thomasloven/lovelace-card-tools)
 2. OpenPlantbook-client (https://github.com/slaxor505/OpenPlantbook-client)
-
-*You could also use a local plant database if you prefer.*
+3. Plant images (https://we.tl/t-baN733EttD)
 
 
 
@@ -25,7 +24,7 @@
 
 - Copy the file `flower-card-cpha.js` to `www/lovelace-flower-card-cpha/`
 
-- Unzip and copy all plant images from `plants.zip` to `www/images/plants/`
+- Unzip and copy all plant images to `www/images/plants/`
 
 
 
