@@ -4,7 +4,7 @@
 
 *This is a Lovelace flower card for Home Assistant that won't break if with sensors without conductivity attribute (battery will be used if there's no conductivity attribute). The code is based on the original card by [thomasloven](https://github.com/thomasloven/lovelace-flower-card) and some random code found in the [Home Assistant forums](https://community.home-assistant.io/).*
 
-
+![](https://github.com/luisleonardo/-lovelace-flower-card-cpha/raw/main/lovelace-flower-card-example.png)
 
 
 
