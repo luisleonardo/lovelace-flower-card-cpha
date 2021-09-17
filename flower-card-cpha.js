@@ -142,6 +142,9 @@ customElements.whenDefined('card-tools').then(() => {
       }
 
       var condOrBatError = '!!! Conductivity or battery attribute required !!!'
+      // workarround: min and max battery values aren't beeing passed by the plant integration
+      limits['min_battery'] = 15
+      limits['max_battery'] = 100
 
       return cardTools.LitHtml`
       <ha-card>
